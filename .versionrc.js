@@ -8,5 +8,10 @@ module.exports = {
     { type: "refactor", hidden: true },
     { type: "perf", hidden: true },
     { type: "test", hidden: true },
-  ]
+  ],
+  skip: {
+    bump: true,
+    commit: true,
+    tag: true,
+  },
 };
