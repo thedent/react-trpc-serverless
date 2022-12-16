@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "A simple tRPC server wrapped in a aws lambda handler",
+  "main": "index.js",
+  "author": "Etienne Dentro",
+  "license": "MIT"
+}
